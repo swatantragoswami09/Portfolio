@@ -22,4 +22,10 @@ export interface IProject {
   key_techs: string[];
 }
 
-export type Category = "react" | "node" | "express" | "mongo";
+export type Category =
+  | "react"
+  | "angular"
+  | "node"
+  | "express"
+  | "blockchain"
+  | "mongo";

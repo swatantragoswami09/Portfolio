@@ -131,7 +131,7 @@ export const projects: IProject[] = [
     image_path: "/images/hdpix.png",
     deployed_url: "https://hdpix.netlify.app/",
     github_url: "https://github.com/swatantragoswami09/candlestick",
-    category: ["node", "react"],
+    category: ["react"],
     description:
       "We are using the Unsplash API in our React App and showing some picture in a well organised format.",
     key_techs: ["React", "Redux", "Unsplash API"],
@@ -143,7 +143,7 @@ export const projects: IProject[] = [
     deployed_url:
       "https://lottery-react-q2qo00xaj-swatantragoswami09.vercel.app/",
     github_url: "https://github.com/swatantragoswami09/Lottery-Contract",
-    category: ["node", "react"],
+    category: ["react", "blockchain"],
     description:
       "This App can perform some decentralize transactions and using ethereum blockchain in its backend.",
     key_techs: ["React", "Node", "Blockchain", "Web3", "Solidity"],
@@ -155,7 +155,7 @@ export const projects: IProject[] = [
     deployed_url: "https://faucet-alpha.vercel.app/",
     github_url:
       "https://github.com/swatantragoswami09/BlockchainFaucetAndMarketPlace/tree/master/faucet",
-    category: ["react"],
+    category: ["react", "blockchain"],
     description:
       "This App is called a faucet which you able to denotes you some test ethers and you also withdraw some test ethers from smart contract.",
     key_techs: ["React", "BlockChain", "Ganache"],
@@ -167,9 +167,38 @@ export const projects: IProject[] = [
     deployed_url: "https://jbook-swatantragoswami09.vercel.app/",
     github_url:
       "https://github.com/swatantragoswami09/StephenReactAndTypescript/tree/master/jbook/packages/local-client",
-    category: ["express"],
+    category: ["express", "react"],
     description:
       "This is online jupitor note book of react and coding editor you can also download the node module 'npx jsnote-skg serve'",
     key_techs: ["TypeScript", "React", "Reducers"],
+  },
+  {
+    name: "BlogPost Website ErrorSolver",
+    image_path: "/images/errorsolver.png",
+    deployed_url: "https://errorsolver.vercel.app/",
+    github_url: "https://github.com/swatantragoswami09/ErrorSolver",
+    category: ["react"],
+    description:
+      "This is a blogpost kind of website site which you can upload your error solution with time duration.",
+    key_techs: ["React", "Reducers"],
+  },
+  {
+    name: "Password Generator",
+    image_path: "/images/pw.png",
+    deployed_url: "https://pw-5xiflamof-swatantragoswami09.vercel.app/",
+    github_url: "https://github.com/swatantragoswami09/PasswordGenerator",
+    category: ["angular"],
+    description: "This is a simple password generator website.",
+    key_techs: ["Angular"],
+  },
+  {
+    name: "Magic Game",
+    image_path: "/images/mg.png",
+    deployed_url: "https://game-swatantragoswami09.vercel.app/",
+    github_url: "https://github.com/swatantragoswami09/MagicGame",
+    category: ["react"],
+    description:
+      "This is a simple game that we need to match the same card, on every turn of card we count the number of turn and turns is the score.",
+    key_techs: ["React"],
   },
 ];

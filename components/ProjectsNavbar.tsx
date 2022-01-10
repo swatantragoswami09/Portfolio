@@ -25,7 +25,8 @@ const ProjectsNavbar: FunctionComponent<{
       <NavItem value="all" {...props} />
       <NavItem value="react" {...props} />
       <NavItem value="mongo" {...props} />
-      {/* <NavItem value="django" {...props} /> */}
+      <NavItem value="blockchain" {...props} />
+      <NavItem value="angular" {...props} />
       <NavItem value="node" {...props} />
     </div>
   );
