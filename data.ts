@@ -201,4 +201,13 @@ export const projects: IProject[] = [
       "This is a simple game that we need to match the same card, on every turn of card we count the number of turn and turns is the score.",
     key_techs: ["React"],
   },
+  {
+    name: "Typing Challenge",
+    image_path: "/images/tc.png",
+    deployed_url: "https://typing-ntkarwjqj-swatantragoswami09.vercel.app/",
+    github_url: "https://github.com/swatantragoswami09/MagicGame",
+    category: ["angular"],
+    description: "This is a typing website.",
+    key_techs: ["Angular"],
+  },
 ];
