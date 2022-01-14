@@ -39,7 +39,7 @@ export const services: Service[] = [
   {
     Icon: RiComputerLine,
     title: "Whatever",
-    about: "I am a fast learner and learn new technologies is my hobby.",
+    about: "I am a fast learner and learning new technologies is my hobby.",
   },
 ];
 
