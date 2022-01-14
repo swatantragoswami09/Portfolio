@@ -108,7 +108,7 @@ export const projects: IProject[] = [
   {
     name: "Project Managment Dashboard",
     description:
-      "This app ca show the dashboard of the teammates of the company that works in any of project.",
+      "This app can show the dashboard of the teammates of the company that works in any of project.",
     image_path: "/images/dashboard.png",
     deployed_url: "https://thedojosite-dc8cd.web.app/",
     github_url: "https://github.com/swatantragoswami09/dojoDashboard",
