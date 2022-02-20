@@ -210,4 +210,14 @@ export const projects: IProject[] = [
     description: "This is a typing website.",
     key_techs: ["Angular"],
   },
+  {
+    name: "Voice To Text Converter",
+    image_path: "/images/vtot.png",
+    deployed_url: "https://vtot-8ccxw2ubh-swatantragoswami09.vercel.app/",
+    github_url: "https://github.com/swatantragoswami09/VoiceToText",
+    category: ["react"],
+    description:
+      "This is a single page application that converts your voice to text and you can also save your voice notes.",
+    key_techs: ["React"],
+  },
 ];
